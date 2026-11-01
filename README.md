@@ -55,6 +55,5 @@ The available Nmap screenshot reports **3 hosts up** in the scanned range. The P
 
 ## Privacy and responsible use
 
-This project is for authorized defensive learning. Before publishing evidence, review it for private IP addresses, MAC addresses, public IPs, usernames, hostnames, credentials, tokens, and personal information. Never publish passwords, secrets, or unredacted vulnerability exports
 
 This project is for authorized defensive learning. Before publishing evidence, review it for private IP addresses, MAC addresses, public IPs, usernames, hostnames, credentials, tokens, and personal information. Never publish passwords, secrets, or unredacted vulnerability exports.
